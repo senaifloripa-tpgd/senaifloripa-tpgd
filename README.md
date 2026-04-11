@@ -5,9 +5,13 @@
   <img width="2" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" height="45"/>
   <img width="2" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="figma" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="notion" height="45"/>
   <img width="2" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_Aseprite.png" alt="figma" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_Aseprite.png" alt="aseprite" height="45"/>
+  <img width="2" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" height="45"/>
+  <img width="2" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="illustrator" height="45"/>  
 </div>
 <h3>Social Media</h3>
 <div>
