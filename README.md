@@ -5,8 +5,6 @@
   <img width="2" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="csharp" height="45"/>
   <img width="2" />
-  <img src="https://habrastorage.org/webt/gq/ke/xi/gqkexi_dekwffzpjqtx04zp7ee8.png" alt="vscommunity" height="45"/>
-  <img width="2" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" height="45"/>
   <img width="2" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="notion" height="45"/>
