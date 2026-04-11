@@ -4,6 +4,8 @@
   <img src="https://img.icons8.com/?size=100&id=IPzemd2v4Ubj&format=png&color=000000" alt="unity" height="45"/>
   <img width="2" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" height="45"/>
+  <img width="2" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="figma" height="45"/>
 </div>
 <h3>Social Media</h3>
 <div>
